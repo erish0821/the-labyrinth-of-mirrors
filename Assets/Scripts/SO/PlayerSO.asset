@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89649604f9ac77b4bb55651a8efe8ddc, type: 3}
+  m_Name: PlayerSO
+  m_EditorClassIdentifier: 
+  players:
+  - playerName: My
+    roleCard: {fileID: 11400000, guid: c171522a948de414b8a091e3e8929cf4, type: 2}
+    characterData: {fileID: 11400000, guid: 202fe17aca21c3448960a27002762772, type: 2}
+    isRoleRevealed: 0
+    weaponCard: {fileID: 0}
+    potionCard: {fileID: 0}
+    debufferCard: {fileID: 0}
+    health: 10
+    attack: 0
+    defense: 0
+    isStealthed: 0
+    isFirstAttack: 1
+  - playerName: Other0
+    roleCard: {fileID: 11400000, guid: e107b7228f2567548af79a4747882280, type: 2}
+    characterData: {fileID: 11400000, guid: eed5a74f432023b42a2943f81cde56bd, type: 2}
+    isRoleRevealed: 0
+    weaponCard: {fileID: 0}
+    potionCard: {fileID: 0}
+    debufferCard: {fileID: 0}
+    health: 10
+    attack: 0
+    defense: 0
+    isStealthed: 0
+    isFirstAttack: 1
+  - playerName: Other1
+    roleCard: {fileID: 11400000, guid: 53ccda3b96e11de4dbed7815c9e3e3b5, type: 2}
+    characterData: {fileID: 11400000, guid: 475ec2a19d941cb40864ae60ea3b2d86, type: 2}
+    isRoleRevealed: 1
+    weaponCard: {fileID: 0}
+    potionCard: {fileID: 0}
+    debufferCard: {fileID: 0}
+    health: 10
+    attack: 0
+    defense: 0
+    isStealthed: 0
+    isFirstAttack: 1
+  - playerName: Other2
+    roleCard: {fileID: 11400000, guid: 36a2078dd9d5a1a4eae6c936c8919dcc, type: 2}
+    characterData: {fileID: 11400000, guid: 7d6a624040c968a409d8b7cd30c2b26d, type: 2}
+    isRoleRevealed: 0
+    weaponCard: {fileID: 0}
+    potionCard: {fileID: 0}
+    debufferCard: {fileID: 0}
+    health: 10
+    attack: 0
+    defense: 0
+    isStealthed: 0
+    isFirstAttack: 1
+  - playerName: Other3
+    roleCard: {fileID: 11400000, guid: 6a5b5ae935942144bbeb2a3af58d9e2f, type: 2}
+    characterData: {fileID: 11400000, guid: c9ef5a042e9f0fc4e9b32ccc5f26a902, type: 2}
+    isRoleRevealed: 0
+    weaponCard: {fileID: 0}
+    potionCard: {fileID: 0}
+    debufferCard: {fileID: 0}
+    health: 10
+    attack: 0
+    defense: 0
+    isStealthed: 0
+    isFirstAttack: 1
